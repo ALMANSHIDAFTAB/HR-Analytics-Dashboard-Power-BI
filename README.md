@@ -63,5 +63,6 @@ Identify key factors contributing to employee attrition and help HR teams make d
 ---
 
 ## 📸 Dashboard Preview
+<img width="1241" height="696" alt="image" src="https://github.com/user-attachments/assets/f93daf86-5df6-450c-bd69-ad33411d0da9" />
 
-![Dashboard Overview](screenshots/dashboard_overview.png)
+
