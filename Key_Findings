@@ -1,0 +1,57 @@
+# 📝 Key Findings — HR Analytics Dashboard
+
+## Overview
+Analysis performed on HR data covering **1,470 employees** across three departments: Human Resources, Research & Development, and Sales.
+
+---
+
+## 🔢 Summary Statistics
+
+| Metric | Value |
+|--------|-------|
+| Total Employees | 1,470 |
+| Total Attrition | 237 |
+| Attrition Rate | 16.1% |
+| Average Age | 37 years |
+| Average Salary | ₹6.5K/month |
+| Average Tenure | 7 years |
+
+---
+
+## 📌 Finding 1 — Age is a Strong Attrition Driver
+- The **26–35 age group** accounts for the highest attrition (116 employees)
+- This suggests early-career professionals are more likely to explore opportunities elsewhere
+- **Recommendation:** Strengthen career growth programs and mentorship for this age band
+
+---
+
+## 📌 Finding 2 — Low Salary = High Attrition
+- Employees earning **up to ₹5K/month** make up the largest share of attrition
+- A clear inverse relationship exists between salary slab and attrition rate
+- **Recommendation:** Review compensation benchmarks especially for entry-level roles
+
+---
+
+## 📌 Finding 3 — Critical Roles Are Most Affected
+- **Laboratory Technicians** (62) and **Sales Executives** (57) have the highest attrition by job role
+- These are also high-volume roles, making attrition more operationally costly
+- **Recommendation:** Role-specific retention strategies and workload reviews needed
+
+---
+
+## 📌 Finding 4 — Tenure Risk Peaks at Year 1
+- Attrition is highest among employees with **0–1 year** at the company
+- A secondary spike appears around **5 years**, possibly linked to career plateau
+- **Recommendation:** Improve onboarding experience and mid-career development paths
+
+---
+
+## 📌 Finding 5 — Education Field Matters
+- Employees from **Life Sciences** (38%) and **Medical** (27%) backgrounds leave most frequently
+- These fields likely have high external demand, pulling talent away
+- **Recommendation:** Consider targeted retention incentives for these education profiles
+
+---
+
+## ✅ Conclusion
+Attrition at this organization is driven by a combination of early tenure dissatisfaction, below-market compensation, and role-specific pressures. Addressing these through structured onboarding, competitive pay reviews, and career development initiatives could meaningfully reduce the 16.1% attrition rate.  
